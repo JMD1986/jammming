@@ -12,7 +12,6 @@ class Track extends React.Component{
     return(
       <div class="Track">
         <div class="Track-information">
-
         </div>
         <a class="Track-action">{this.renderAction()}</a>
       </div>
